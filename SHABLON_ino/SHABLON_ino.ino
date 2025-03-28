@@ -21,10 +21,28 @@ long proverKnop(){}
 long pokasRadAkkm(){}
 
 void setup() {  
-
+    int  s=0;
 
 }
 
 void loop() {
+ //Переход Триггеры 
   
+  
+  
+  
+  //Состояния
+ //1. ждет
+  if  (s==1)  { 
+  }
+ //2. раотает 
+  if (s==2)  {
+  }
+ //3. разряжен  
+  if  (s==3) {
+    
+  }
 }
+ 
+
+ 
